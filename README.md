@@ -29,6 +29,6 @@ To explore our website, follow these steps:
 
    ```bash
    git clone https://github.com/Loubnaelghazi/MINI-PROJECT-FIRST-WEBSITE-GROUPE-PROJECT-.git
-## Licence
+## License
 Copy and paste this template into your README.md file. Make sure to update any placeholder information, and if there's additional information specific to your project, feel free to add or modify sections accordingly.
    
