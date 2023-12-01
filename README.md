@@ -1,7 +1,7 @@
 # MINI-PROJECT-FIRST-WEBSITE-GROUPE-PROJECT-
 # Collaborative Website Project
 
-Welcome to our first collaborative website project! This project was undertaken as a group effort to build our understanding of HTML, CSS, and JavaScript. In addition to the website files, we've included a detailed project report in the `report` directory, providing insights into our approach, challenges, and design choices.
+Welcome to our first collaborative website project! This project was undertaken as a group effort to build our understanding of HTML, CSS, and JavaScript. In addition to the website files, we've included a detailed project report, providing insights into our approach, challenges, and design choices.
 
 ## Table of Contents
 
@@ -17,7 +17,8 @@ This repository contains the source code and assets for our collaborative websit
 
 ## Project Report
 
-Check out our detailed [project report](./report/ProjectReport.pdf) for an in-depth overview of our development process, challenges faced, and design decisions made. Your feedback is highly appreciated!
+Check out our detailed report(.[/report/ProjectReport.pdf](https://github.com/Loubnaelghazi/MINI-PROJECT-FIRST-WEBSITE-GROUPE-PROJECT-/blob/main/RAPPORT%20DE%20MINI%20PROJET..pdf) for an in-depth overview of our development process, challenges faced, and design decisions made. Your feedback is highly appreciated!
+
 **Please note that the project report is in French.**
 
 ## Usage
